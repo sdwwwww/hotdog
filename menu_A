@@ -1,0 +1,1869 @@
+CRLF_SJIS
+
+    mennuu
+        -label "local+global" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "E" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem1;
+
+        mennuu
+            -label "LtW_point" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtW_point;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem1;
+
+        mennuu
+            -label "menuEditorMenuItem20" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtW_point;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem20;
+
+        mennuu
+            -label "LtW_orient" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtW_orient;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "W" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem2;
+
+        mennuu
+            -label "menuEditorMenuItem18" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtW_orient;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem18;
+
+        mennuu
+            -label "LtW_parent" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtW_parent;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem3;
+
+        mennuu
+            -label "menuEditorMenuItem19" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtW_parent;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem19;
+
+        mennuu
+            -label "LtL_point" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtL_point;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem5;
+
+        mennuu
+            -label "menuEditorMenuItem23" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtL_point;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem23;
+
+        mennuu
+            -label "LtL_orient" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtL_orient;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "E" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem6;
+
+        mennuu
+            -label "menuEditorMenuItem24" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtL_orient;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem24;
+
+        mennuu
+            -label "LtL_parent" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtL_parent;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem7;
+
+        mennuu
+            -label "menuEditorMenuItem25" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "onetimeworkON;\nLtL_parent;\nonetimeworkOFF;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem25;
+
+        mennuu
+            -label "LtWLauto(\"W\")" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtWLauto(\"W\");" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "N" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+        mennuu
+            -label "menuEditorMenuItem21" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"LtWLauto(W)\\n\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem21;
+
+        mennuu
+            -label "LtWLauto(\"L\")" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtWLauto(\"L\");" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "S" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem9;
+
+        mennuu
+            -label "menuEditorMenuItem22" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"LtWLauto(L)\\n\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem22;
+
+        mennuu
+            -label "LtW_scale" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "LtW_scale;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem4;
+
+        mennuu
+            -label "セパレータ" 
+            -divider 1
+            -dividerLabel "セパレータ" 
+            -subMenu 0
+            -tearOff 0
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem13;
+
+    setParent -m ..;
+
+    mennuu
+        -label "MotionWork" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "NW" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem2;
+
+        mennuu
+            -label "shouchi" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc iteamrig(){\n//接地_lot0>手握り位置lot_1>handT2_>__R3\nstring $worldrig[] = `ls-sl`;\nrename $worldrig[0] \"iteamLOTMerman\";\nrename $worldrig[1] \"iteamLOT2Merman\";\nselect \"iteamLOT2Merman\" $worldrig[2] $worldrig[3];\nworldhandnew2;\nselect \"iteamLOT2Merman\" \"iteamLOTMerman\";\nworldTR;\n}iteamrig;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem1;
+
+        mennuu
+            -label "menuEditorMenuItem19" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"iteamrig 接地_lot0>手握り位置lot_1>handT2_>__R3\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem19;
+
+        mennuu
+            -label "fixshoulder" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc fixingshoulder(){\n//joint arm start....shou he zhou de yidong xuanzhuan guding\nstring $J2[]=`ls-sl`;PickWalkDown;//Armjoint\nstring $J3[]=`ls-sl`;PickWalkUp;PickWalkUp;//ForeArmjoint\nstring $J1[]=`ls-sl`;            //Shoulderjoint\n\nstring $orientConstraint_LIST[] = `orientConstraint -q -tl`;\nselect $orientConstraint_LIST;\nstring $RigShoulder[]=`ls-sl`;    //RigShoulder\n\nselect $J1;PickWalkUp;\nstring $J0[]=`ls-sl`;            //chestjoint\n\nstring $orientConstraint_LIST2[] = `orientConstraint -q -tl`;\nselect $orientConstraint_LIST2;\nstring $RigChest[]=`ls-sl`;    //RigChest\n\nselect $J3;GetFormLocator;rename \"NewForeMerman\";\npointConstraint -n \"_conSON\" -offset 0 0 0 -weight 1 $J3 \"NewForeMerman\";\nselect \"NewForeMerman\";\nshapescaleplus;\nsetAttr -lock true \".rx\";\nsetAttr -lock true \".ry\";\nsetAttr -lock true \".rz\";\nsetAttr -lock true \".sx\";\nsetAttr -lock true \".sy\";\nsetAttr -lock true \".sz\";\nsetAttr -lock true \".v\";\nbakeResults -t (`playbackOptions -q -minTime`+\":\"+`playbackOptions -q -maxTime`) -simulation true;\ndelete \"_conSON*\";\n\nselect -r $J0 $J1 $J2 $J3 ; \nGetFormLocator;\nmakeIdentity -apply true -t 0 -r 1 -s 0 -n 0 -pn 1;\nstring $Lotall[]=`ls-sl`;\nfloat $lot1[] = `xform -a -q -ws -t $Lotall[1]`;\nfloat $lot2[] = `xform -a -q -ws -t $Lotall[2]`;\nfloat $lot3[] = `xform -a -q -ws -t $Lotall[3]`;\n\nselect -cl;\njoint -p $lot1[0] $lot1[1] $lot1[2];rename \"J1\";\nxform -ws -t $lot1[0] $lot1[1] $lot1[2];select -cl;\njoint -p $lot2[0] $lot2[1] $lot2[2];rename \"J2\";\nxform -ws -t $lot2[0] $lot2[1] $lot2[2];select -cl;\njoint -p $lot3[0] $lot3[1] $lot3[2];rename \"J3\";\nparent \"J3\" \"J2\";\nparent \"J2\" \"J1\";\nselect -r $Lotall[2] $Lotall[3]; delete;\n\nselect -r $Lotall[1];rename \"NewjotMerman1\";\npointConstraint -n \"_conSON\" -offset 0 0 0 -weight 1 $RigShoulder \"NewjotMerman1\";\norientConstraint -n \"_conSON\" -offset 0 0 0 -weight 1 $RigShoulder \"NewjotMerman1\";\nparent \"J1\" \"NewjotMerman1\";\ndelete \"_conSON*\";\n//select J1;Position_Group_Rame1;pickWalk -d up;rename \"NewjotMerman1\";\n\nselect $Lotall[0];rename \"NewjotMerman0\";\npointConstraint -n \"_conSOMp\" -offset 0 0 0 -weight 1 $RigChest \"NewjotMerman0\";\norientConstraint -n \"_conSOMo\" -offset 0 0 0 -weight 1 $RigChest \"NewjotMerman0\";\nparent \"NewjotMerman1\" \"NewjotMerman0\";\n\nselect J1;CurveOperation4 \"Position_Group_Rame2\";rename \"NewshoulderMerman\";\nselect -r J1 ;select -tgl J3 ;\nikHandle;rename \"ikhandleMerman\";\npointConstraint -n \"_conSOM\" -offset 0 0 0 -weight 1 \"NewForeMerman\" \"ikhandleMerman\";\n\nselect -r $RigShoulder \"NewshoulderMerman\";\norientConstraint -n \"_conSON\";\n//orientConstraint -n \"_conSON\" -offset 1 1 1 -weight 1 $RigShoulder \"NewshoulderMerman\";\nselect \"NewshoulderMerman\";\nsetAttr -lock true \".tx\";\nsetAttr -lock true \".ty\";\nsetAttr -lock true \".tz\";\nsetAttr -lock true \".sx\";\nsetAttr -lock true \".sy\";\nsetAttr -lock true \".sz\";\nsetAttr -lock true \".v\";\nbakeResults -t (`playbackOptions -q -minTime`+\":\"+`playbackOptions -q -maxTime`) -simulation true;\ndelete \"_conSON*\";\n\nselect -r \"NewshoulderMerman\" $RigShoulder;\n\t\torientConstraint -n \"_conSOM\" -mo ;\n\ngroup \"NewForeMerman\" \"NewjotMerman0\" \"ikhandleMerman\";\nprefixHierarchy;\n}fixingshoulder;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem3;
+
+        mennuu
+            -label "menuEditorMenuItem25" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"joint arm start....shou he zhou de yidong xuanzhuan guding\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem25;
+
+        mennuu
+            -label "autobozi" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc autobozi(){\n//rig:xiong0,bo1,tou2,(+xiong-1)\nstring $newbozi[]=`ls-sl`;\nselect $newbozi[2];\nGetFormLocator2;\nmove -r -os -wd 40 0 0;rename \"LA\";\nselect $newbozi[0];\nGetFormLocator2;\nmove -r -os -wd 0 -65 0;rename \"LB\";\nselect $newbozi;\nGetFormLocator2;\nstring $shan[]=`ls-sl`;\nfor($i=0;$i<3;$i++){\nselect $shan[$i];\njoint;\nrename (\"gu\"+$i);\nGetFormGroup2;\nrename (\"null\"+$i);\n}\nparent gu1 gu0;\nparent gu2 gu1;\nselect $newbozi[0];\naddlotbake;\nrename \"newboziOya\";\nparent gu0 newboziOya;\nselect gu1;\nduplicate -rr;parent -w;\nrename \"dummyA\";pickWalk -d down;delete;\nselect \"dummyA\";pickWalk -d down;\nrename \"dummyB\";pickWalk -d down;delete;\nparent \"dummyA\" newboziOya;\n//\nselect gu1 gu2;\nikHandle -sol ikRPsolver; \nrename \"autobozuik\";\npointConstraint  -n \"_conSON\" -offset 0 0 0 -weight 1 \"LA\" \"autobozuik\";\npoleVectorConstraint -weight 1 \"LB\" \"autobozuik\";\n//\nparent \"autobozuik\" \"LA\" \"LB\" newboziOya;\nselect \"dummyA\";Group;\nrename \"dummyO\";\nselect LA;GetFormGroup2;\nrename \"La\";\nGetFormGroup2;\nrename \"Lc\";\nselect LB;GetFormGroup2;\nrename \"Lb\";\nGetFormGroup2;\nrename \"Ld\";\n\nselect La;move -r -os -wd 0 5 0;select \"Lc\";move -r -os -wd 0 -10 0;\nselect Lb;move -r -os -wd 0 5 0;select \"Ld\";move -r -os -wd 0 -10 0;\nparent La Lb dummyB;\nparent Lc Ld dummyA;\npointConstraint  -n \"_conSOM\" -offset 0 0 0 -weight 1 \"La\" \"LA\";\npointConstraint  -n \"_conSOM\" -offset 0 0 0 -weight 1 \"Lc\" \"LA\";\npointConstraint  -n \"_conSOM\" -offset 0 0 0 -weight 1 \"Lb\" \"LB\";\npointConstraint  -n \"_conSOM\" -offset 0 0 0 -weight 1 \"Ld\" \"LB\";\n\nselect null1 null2;\nQA_pickTarget;\nselect $newbozi[1] $newbozi[2];\nQA_pickOrigin;\nQAapllycon(0,1);\nselect null1 null2;sonbakeO;\ndelete \"_conXiaoJie*\";\nQAapllycon(1,1);\ndelete $shan;\n\norientConstraint  -n \"_conSOM\" -mo -weight 1 dummyB gu2;\nselect \"dummyB\";\nA_s3;//SetKeyRotate;\nLtx;Lty;Ltz;Lsx;Lsy;Lsz;Lvis;\nsetAttr \"newboziOya.visibility\" 0;\nselect $newbozi[0] dummyB;LtL_orient;\nrename \"dummyB_Lorient01\" \"New_tou_rig\";\n}autobozi;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "N" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem4;
+
+        mennuu
+            -label "menuEditorMenuItem24" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"sel rig:xiong_0,bo_1,tou_2\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem24;
+
+        mennuu
+            -label "FKarm" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc fkarm(int $bakeonoff){\n//suogu(0),rig_handT(1),rig_elbow(2)/handO(3)\n//0 shoulder nobake\n//1 shoulder bake\n\nstring $StepA[] = `ls-sl`;\nselect $StepA[0];//Shoulderjoint\nPickWalkDown;string $J1[]=`ls-sl`;//Armjoint\nPickWalkDown;string $J2[]=`ls-sl`;//ForeArmjoint\nPickWalkDown;string $J3[]=`ls-sl`;//Handjoint \nselect $StepA[0];\n//string $pointConstraint_LIST[] = `pointConstraint -q -tl`;            \nstring $orientConstraint_LIST[] = `orientConstraint -q -tl`;\nselect $orientConstraint_LIST;\nselect $StepA[0];\nstring $RigS[]=`ls-sl`;//RigShoulder\nstring $RigH= $StepA[1];//RigHandT\nstring $RigE= $StepA[2];//RigElbow\nstring $name1 = \"Merman_\" + $StepA[0] ;\nstring $DLS=$name1+\"_shoulder\";\nstring $DLA=$name1+\"_arm\";\nstring $DLF=$name1+\"_farm\";\nstring $DLE=$name1+\"_elbow\";\nstring $DLH=$name1+\"_hand\";\n\t\t\tspaceLocator -n $DLS;\n\t\t\tspaceLocator -n $DLA;\n\t\t\tspaceLocator -n $DLF;\n\t\t\tspaceLocator -n $DLE;\n\t\t\tspaceLocator -n $DLH;\n\t\t\tparent $DLH $DLF;\n\t\t\tparent $DLF $DLA;\n\t\t\tparent $DLA $DLS;\n\t\t\tparent $DLE $DLF;\n\t\t\tparentConstraint -n \"_dmy_conO\" $RigS $DLS;//rig shoulder --- lot shoulder\n\t\t\tparentConstraint -n \"_dmy_conA\" $J1 $DLA;  //joint arm --- lot arm\n\t\t\tparentConstraint -n \"_dmy_conB\" $J2 $DLF;  //joint farm --- lot farm\n\t\t\tpointConstraint -n \"_dmy_conC\" $RigH $DLH; //rig handT --- lot handT\n\t\t\torientConstraint -n \"_dmy_conC2\" $StepA[3] $DLH;\n\t\t\tpointConstraint -n \"_dmy_conD\" $RigE $DLE; // rig elbow --- lot elbow\n\t\t\t\n\t\t\tselect $DLS $DLA $DLF $DLH $DLE;Lsx;Lsy;Lsz;Lvis; \n\t\t\tselect -r $DLA $DLF $DLH;Ltx;Lty;Ltz;\n\t\t\tselect -r $DLE;Lrx;Lry;Lrz;\n\t\tif($bakeonoff==1){\n\t\t\tselect $DLS $DLA $DLF $DLH $DLE;//jian/arm/zhou/wan/pv\n\t\t\tsonbakeTO;\n\t\t\t//delete \"_dmy_conO\";\n\t\t}else if($bakeonoff==0){\n\t\t    select $DLA $DLF $DLH $DLE;//arm/zhou/wan/pv\n\t\t    sonbakeTO;\n\t\t}\n\t\t\tdelete \"_dmy_conA\" \"_dmy_conB\" \"_dmy_conC\" \"_dmy_conC2\" \"_dmy_conD\";\n\t\t\tpointConstraint $DLH $RigH; //lot handT --- rig handT\n\t\t\tpointConstraint $DLE $RigE; //lot elbow --- rig elbow\n            orientConstraint $DLH $StepA[3];//lot handO>rig handO\nselect -cl;\n}fkarm(0);" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "E" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem5;
+
+        mennuu
+            -label "menuEditorMenuItem6" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"suogu(0),rig_handT(1),rig_elbow(2),rig_handO(3) / fkarm(0-1 jianbakeOnOff)\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem6;
+
+        mennuu
+            -label "FKleg" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc fkleg(){\n//joint_kuangunajie(0),rig_legTO(1),rig_kneeT(2)\nstring $StepA[] = `ls-sl`;\nselect $StepA[0];\nstring $J1[]=`ls-sl`;//UpLegjoint\nPickWalkDown;\nstring $J2[]=`ls-sl`;//Legjoint\nPickWalkDown;    //PickWalkRight;///////*-/*-/*-/\nstring $J3[]=`ls-sl`;//Footjoint \nselect $StepA[0];PickWalkUp;\nstring $RigH[]=`ls-sl`;//Hipjoint \n\nstring $orientConstraint_LIST[]=`orientConstraint -q -tl`;\nselect $orientConstraint_LIST;\n//string $RigH[]=`ls-sl`; //RigHip\nstring $RigL= $StepA[1];//RigLeg\nstring $RigK= $StepA[2];//RigKnee\n\nstring $name1 = \"Merman_\" + $StepA[0] ;\nstring $DLH=$name1+\"_leg0\";\nstring $DLL1=$name1+\"_leg1\";\nstring $DLL2=$name1+\"_leg2\";\nstring $DLF=$name1+\"_foot\";\nstring $DLK=$name1+\"_knee\";\n\t\t\tspaceLocator -n $DLH;\n\t\t\tspaceLocator -n $DLL1;\n\t\t\tspaceLocator -n $DLL2;\n\t\t\tspaceLocator -n $DLF;\n\t\t\tspaceLocator -n $DLK;\n\t\t\tparent $DLF $DLL2;\n\t\t\tparent $DLL2 $DLL1;\n\t\t\tparent $DLL1 $DLH;\n\t\t\tparent $DLK $DLL2;\n\t\t\tparentConstraint $RigH $DLH;\n\t\t\tparentConstraint -n \"_dmy_conA\" $J1 $DLL1;\n\t\t\tparentConstraint -n \"_dmy_conB\" $J2 $DLL2;\n\t\t\tpointConstraint -n \"_dmy_conC\" $J3 $DLF;\n\t\t\torientConstraint -n \"_dmy_conC_\" $RigL $DLF;\n\t\t\tpointConstraint -n \"_dmy_conD\" $RigK $DLK;\n\t\t\tselect -r $DLH;allLo;\n\t\t\tselect -r $DLL1 $DLF $DLL2;Ltx;Lty;Ltz;Lsx;Lsy;Lsz;Lvis;\n\t\t\tselect -r $DLK;Lrx;Lry;Lrz;Lsx;Lsy;Lsz;Lvis;\n\t\t\tselect -r $DLL1 $DLL2 $DLF $DLK;\n\t\t\tbakeResults -t (`playbackOptions -q -minTime`+\":\"+`playbackOptions -q -maxTime`) -simulation true;\n\t\t\tdelete \"_dmy_conA\" \"_dmy_conB\" \"_dmy_conC\" \"_dmy_conC_\" \"_dmy_conD\";\n\t\t\tparentConstraint -mo $DLF $RigL;\n\t\t\tpointConstraint $DLK $RigK;\nselect -cl;\n}fkleg;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem7;
+
+        mennuu
+            -label "menuEditorMenuItem8" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"joint_kuangunajie(0),rig_legTO(1),rig_kneeT(2)\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+        mennuu
+            -label "shouchi2" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc iteamrig2(){\n//手握り位置lot__0,wuqi尖lot_TTT__1,PPP__2,handT_3,O_4\nstring $worldrig[] = `ls-sl`;\nselect $worldrig[0] $worldrig[3] $worldrig[4];\nworldhandnew2;\nselect $worldrig[0] $worldrig[1] $worldrig[2];\naddaimlotB;\nLtW_point;\nselect $worldrig[0];gaimingzi($worldrig[3]+\"_\");\nLrx;Lry;Lrz;Lsx;Lsy;Lsz;Lvis;\n}iteamrig2;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "W" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem2;
+
+        mennuu
+            -label "menuEditorMenuItem20" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"iteamrig2 手握り位置lot__0,wuqi尖lot_TTT__1,PPP__2,handT_3,O_4\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem20;
+
+        mennuu
+            -label "autojian" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc zidongjianbangB(){\nstring $selerigss[]=`ls-sl`;\nGetFormLocator2;string $shannn[]=`ls-sl`;autoaddaimlot;delete $shannn;\nselect $selerigss[0] locator_Ttive locator_Vtive;\naddaimlotB;LtW_point;\nselect $selerigss[0];foundconsaki;PickWalkUp;PickWalkUp;\nstring $groupkoA[]=`ls-sl`;//Niangzi\nPickWalkRight;\nstring $groupkoB[]=`ls-sl`;//TTT\nPickWalkRight;\nstring $groupkoC[]=`ls-sl`;//PVV\nselect $selerigss[1] $groupkoB $groupkoC;\nLtL_point;gaimingzi(\"prefix_\");\nselect $groupkoC[0];pickWalk -d right;\nstring $groupkoD[]=`ls-sl`;//LtLparent\nsetAttr ($groupkoB[0]+\".blendPoint1\") 0.5;\nsetAttr ($groupkoC[0]+\".blendPoint1\") 0.25;\ngroup $groupkoA $groupkoB $groupkoC $groupkoD;\nrename \"autoOgroup______1\";outlinecolor(1050);select -cl;\n}zidongjianbangB;\n\novberlapsonW;\n\n///////////////\n//1 AとBの距離（数値x）を計算\n//2 Aの位置が原点（0,0,0）から見て、Aのローカル軸のうち、最も正方向（+1に近い）と負方向（-1に近い）に向いている軸を判定\n//3 その2軸方向にロケータを作成し、数値xだけ移動させる\nglobal proc autoaddaimlot(){\nstring $sel[] = `ls -sl`;\nif (size($sel) != 2) {error(\"2つのオブジェクトを選択してください。A（回転リグ）→B（対象リグ）の順で選択してください。\");}\nstring $rigA = $sel[0];\nstring $rigB = $sel[1];\n// AとBのワールド位置\nvector $posA = `xform -q -ws -t $rigA`;\nvector $posB = `xform -q -ws -t $rigB`;\n// AとBの距離（数値x）\nfloat $distance = mag($posB - $posA)*1.0;\n// Aのワールド行列\nfloat $matrixA[16] = `xform -q -ws -m $rigA`;\n// Aのローカル軸（X, Y, Z）をワールド空間に変換\nvector $xAxis = unit(<<$matrixA[0], $matrixA[1], $matrixA[2]>>);\nvector $yAxis = unit(<<$matrixA[4], $matrixA[5], $matrixA[6]>>);\nvector $zAxis = unit(<<$matrixA[8], $matrixA[9], $matrixA[10]>>);\n// AからBへの方向ベクトル\nvector $direction = unit($posB - $posA);\n// 各軸との内積を計算\nfloat $dotX = dot($direction, $xAxis);\nfloat $dotY = dot($direction, $yAxis);\nfloat $dotZ = dot($direction, $zAxis);\n\n// 最も正方向（最大）と負方向（最小）の軸を判定\nstring $axes[3] = {\"X\", \"Y\", \"Z\"};\nfloat $dots[3] = {$dotX, $dotY, $dotZ};\n\nint $maxIndex = 0;\nint $minIndex = 0;\nfor ($i = 1; $i < 3; $i++) {\n    if ($dots[$i] > $dots[$maxIndex]) $maxIndex = $i;\n    if ($dots[$i] < $dots[$minIndex]) $minIndex = $i;\n}\n\n// 軸ベクトル取得\nvector $axesVec[3] = {$xAxis, $yAxis, $zAxis};\nvector $maxAxis = $axesVec[$maxIndex];\nvector $minAxis = $axesVec[$minIndex];\n\n// ロケータ作成\nstring $loc1Array[] = `spaceLocator -name \"locator_Ttive\"`;outlinecolor(011);\nstring $loc2Array[] = `spaceLocator -name \"locator_Vtive\"`;outlinecolor(010);\n\nstring $loc1 = $loc1Array[0];\nstring $loc2 = $loc2Array[0];\n\n// ロケータ位置計算\nvector $loc1Pos = $posA + ($maxAxis * $distance);\nvector $loc2Pos = $posA + ($minAxis * $distance);\n\n// ロケータ移動\nxform -ws -t ($loc1Pos.x) ($loc1Pos.y) ($loc1Pos.z) $loc1;\nxform -ws -t ($loc2Pos.x) ($loc2Pos.y) ($loc2Pos.z) $loc2;\n\n// 結果表示\nprint(\"距離 x = \" + $distance + \"\\n\");\nprint(\"正方向軸: \" + $axes[$maxIndex] + \" (\" + $dots[$maxIndex] + \")\\n\");\nprint(\"負方向軸: \" + $axes[$minIndex] + \" (\" + $dots[$minIndex] + \")\\n\");\n}//autoaddaimlot;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "S" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem32;
+
+        mennuu
+            -label "menuEditorMenuItem23" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"zidongjianbangB_ sel mubiaorigO + beidongrig\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem34;
+
+        mennuu
+            -label "worldfootF" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc worldfoot(){\n//foot>toe>lot\nstring $worldrig[] = `ls-sl`;\nselect $worldrig[1];addlot;rename \"shanchu\";\nselect -r \"shanchu\" $worldrig[2];duochongaddcon2;\n\nselect $worldrig[2];rename \"WorldFMerman0\";\nselect $worldrig[0];\nGetFormLocator2;rename \"foodLOTMerman\";\nselect $worldrig[1];\nGetFormLocator2;rename \"toeLOTMerman\";\nparent \"foodLOTMerman\" \"toeLOTMerman\" \"WorldFMerman0\";\n\nselect WorldFMerman0;\nsonbakeTO;\n\npointConstraint -n \"_conSONsugu\" -offset 0 0 0 -weight 1 $worldrig[0] \"foodLOTMerman\";\norientConstraint -n \"_conSONsugu\" -offset 0 0 0 -weight 1 $worldrig[0] \"foodLOTMerman\";\norientConstraint -n \"_conSONsugu\" -offset 0 0 0 -weight 1 $worldrig[1] \"toeLOTMerman\";\nselect foodLOTMerman toeLOTMerman;\nsonbakeO;\ndelete \"*_conSONsugu*\" \"shanchu\";\nselect \"foodLOTMerman\" $worldrig[0] ;AIPcon;\nselect \"foodLOTMerman\" $worldrig[0] ;AIOcon;\nselect \"toeLOTMerman\" $worldrig[1] ;AIOcon;\n\nCreateEmptyGroup;rename \"kakasi\";\nselect -tgl \"WorldFMerman0\";parent;\n\nselect \"foodLOTMerman\" \"toeLOTMerman\";\nLtx;Lty;Ltz;\nselect -tgl \"WorldFMerman0\";\ngaimingzi(\"X_\");\nselect -cl;\n}worldfoot" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem10;
+
+        mennuu
+            -label "menuEditorMenuItem21" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"foot>toe>lot |worldfoot|\";\n" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem21;
+
+        mennuu
+            -label "worldfootB" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc worldTR(){\n//foot>lot\nstring $worldrig[]=`ls-sl`;\naddbake;\nselect $worldrig;\nsunxujiaohuan;\nduochongaddcon2;\n}worldTR;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem11;
+
+        mennuu
+            -label "menuEditorMenuItem22" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"worldTR foot rig+lot\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem22;
+
+        mennuu
+            -label "worldjiaojian" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc Fixjiaojian(){\n//jiaojian rig+jie di lot\nstring $jiaojianrig[]=`ls-sl`;\nselect $jiaojianrig[0];\nGetFormLocator2;\nrename \"aimsaki\";\nmove -r -os -wd 30 0 0 ;\nselect -tgl $jiaojianrig[0];\nsunxujiaohuan;\nduochongaddcon1;\nsonbakeTO;\npickWalk_moveUp;\nselect -d aimsaki ;delete;\naimConstraint -mo -weight 1 aimsaki $jiaojianrig[0];\nselect -r aimsaki $jiaojianrig[1];\nworldTR;\n}Fixjiaojian;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem39;
+
+        mennuu
+            -label "menuEditorMenuItem32" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"jiaojian rig+jie di lot>go\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem23;
+
+        mennuu
+            -label "worldhand" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc worldhandnew(){\n//handR>hip>Lot>handT\nstring $worldrig[] = `ls-sl`;\nselect $worldrig[1];\nduochongaddcon1;rename \"WorldPMermanOYA0\";\nselect $worldrig[2] WorldPMermanOYA0 ;parent;rename \"WorldPMermanLOT\";\nselect $worldrig[0] WorldPMermanLOT;addbake;\nselect WorldPMermanLOT $worldrig[0];\nLtL_orient;\nselect WorldPMermanLOT $worldrig[3];\nLtL_point;\nselect WorldPMermanOYA0;SelectHierarchy;\nselect -tgl WorldPMermanLOT_parent;\ngaimingzi($worldrig[0]+\"_\");\nselect -cl;\n}worldhandnew;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem12;
+
+        mennuu
+            -label "menuEditorMenuItem18" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"worldhandnew handR>hip>Lot>handT\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem26;
+
+        mennuu
+            -label "worldhan2" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc worldhandnew2(){\n//lot>handT+R\nstring $handrig[]=`ls-sl`;\nselect $handrig[2] $handrig[0];addbake;\nselect $handrig[0] $handrig[1];LtL_point;\nselect $handrig[0] $handrig[2];LtL_orient;\nselect $handrig[0];\n}worldhandnew2;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem36;
+
+        mennuu
+            -label "menuEditorMenuItem37" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"worldhandnew2 lot>handT+R\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem27;
+
+        mennuu
+            -label "worldhandW" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc worldhandWnew(){\n//RhandT[0]>RhandT[1]>LhandT[2]>LhandT[3]>Lot(chest)[4]\nstring $worldrig[] = `ls-sl`;\nselect $worldrig[4];\naddlot;rename \"WorldMermanWOYA\";\nGetFormLocator2;rename \"WorldPMermanLOTW\";\nparent \"WorldPMermanLOTW\" \"WorldMermanWOYA\";\npointConstraint -n \"_conSON\" -offset 0 0 0 -weight 1 $worldrig[1] WorldPMermanLOTW;\npointConstraint -n \"_conSON\" -offset 0 0 0 -weight 1 $worldrig[3] WorldPMermanLOTW;\nsonbakeT;\nselect -r WorldPMermanLOTW $worldrig[0] $worldrig[1] $worldrig[2] $worldrig[3];\nLTLworka;\n}worldhandWnew;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem13;
+
+        mennuu
+            -label "menuEditorMenuItem23" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"RhandT[0]>RhandO[1]>LhandT[2]>LhandO[3]>Lot(chest)[4]\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem28;
+
+    setParent -m ..;
+
+    mennuu
+        -label "MotionTool" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "W" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem3;
+
+        mennuu
+            -label "Time_Warp" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "time_warp" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "E" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+        mennuu
+            -label "playspeed" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "SpeedSet" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem15;
+
+        mennuu
+            -label "menuEditorMenuItem16" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "freewindow" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem16;
+
+    setParent -m ..;
+
+    mennuu
+        -label "Paiopiao" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "SW" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem4;
+
+        mennuu
+            -label "autotoufa" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc toufaGo(){//st+en J sel>Go\nbt_makeJointsDynamic;\nCreateLocator;rename \"XCX\";pickWalk -d left;outlinecolor(011);\npickWalk -d down;setAttr (\".hairDamping\") 0.05;\npickWalk -d up;pickWalk -d left;outlinecolor(011);\nsetAttr (\".startFrame\") (`playbackOptions -query -min`);//setAttr \".spaceScale\" 0.1;\ndelete XCX;\n}//toufaGo;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "W" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem2;
+
+        mennuu
+            -label "sonSplineRigW    go>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "//Taddrig1;\naddnewrig_window;\nprint \"3,4,5,9>rig数,99>もrig数だが2022エラー?\";" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem3;
+
+        mennuu
+            -label "menuEditorMenuItem9" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "select $A;oyasele;\nselect $B;kosele;\naddnewrig_auto;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem9;
+
+        mennuu
+            -label "buliao" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "Nuno;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+    setParent -m ..;
+
+    mennuu
+        -label "MyConstraint" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "N" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem13;
+
+        mennuu
+            -label "bei+zhu>P" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "beizhu(1)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem1;
+
+        mennuu
+            -label "bei+zhu>O" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "beizhu(2)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "W" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem2;
+
+        mennuu
+            -label "ab..+c>duoconP   O>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "duochongcon(1)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem3;
+
+        mennuu
+            -label "menuEditorMenuItem12" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "duochongcon(2)" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem12;
+
+        mennuu
+            -label "beicon sel>fancon_1f" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "fancon(1)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "N" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem5;
+
+        mennuu
+            -label "beicon sel>fancon_mm" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "fancon(2)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "NE" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem6;
+
+        mennuu
+            -label "ConCheck      botton>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "window -title \"ss\" ;\ncmdScrollFieldReporter -e -clear $gCommandReporter;\nscriptEditorInfo -input \"\";\ncolumnLayout;\ncmdScrollFieldReporter -width 300 -height 400;\nshowWindow;\n\nglobal proc tessssts(){\nstring $selectrig[]=`ls -sl`;\nint $Josize =`size($selectrig)`;\nint $x;\nselect -cl;\n$createSetResult = `sets -name \"NOcon\"`;\n$createSetResult = `sets -name \"CONTT\"`;\n$createSetResult = `sets -name \"CONBB\"`;\nselect $selectrig;\nprint \"VVVVVVVVVVVVVVVVVVVVVVVVVV\\n\";\nfor ($x = 0;$x < $Josize; $x++){\nselect $selectrig[$x];\nREVERSE_CONSTRAINT;\nstring $seletarget[]=`ls -sl`;\nint $size =`size($seletarget)`;\nif ($size == 0){\n    print ($x + \".> \" + $selectrig[$x]+\"______0\\n\");\nselect $selectrig[$x];select -add -ne NOcon;addsetB;\n}else if ($size == 1){\n    print ($x + \".> \" + $selectrig[$x]+\"______1\\n\");\nselect -add -ne CONBB;addsetB;\nselect $selectrig[$x];select -add -ne CONTT;addsetB;\n}else if ($size == 2){\n    print ($x + \".> \" + $selectrig[$x]+\"______2\\n\");\nselect -add -ne CONBB;addsetB;\nselect $selectrig[$x];select -add -ne CONTT;addsetB;\n}\n}\nprint \"MMMMMMMMMMMMMMMMMMMMMMMMMM\\n\";\n}tessssts;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "E" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem15;
+
+        mennuu
+            -label "menuEditorMenuItem16" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "//global proc checkwork(){\nif(`window -ex checkwork` == true )deleteUI checkwork;\nwindow -title \"dd\" -h 80 -w 260 checkwork; \n    string $scrollLayout = `scrollLayout -horizontalScrollBarThickness 16 -verticalScrollBarThickness 16`;\n        rowColumnLayout -numberOfColumns 1;\n\nstring $selectrig[]=`ls -sl`;\nint $Josize =`size($selectrig)`;\nint $x;\nfor ($x = 0;$x < $Josize; $x++){\n    string $seleagain = \"select\"+\" \"+\"$\"+\"selectrig\"+\"[\"+$x+\"]\";\n    select $selectrig[$x];\n//\nstring $selecto[]=`ls -sl`;\nREVERSE_CONSTRAINT;\nstring $seletarget[]=`ls -sl`;\nint $size =`size($seletarget)`;\nif ($size == 0){\n    string $selectoo = ($x +\".> \" + $selecto[0]+\"____0\");\n    button -bgc 0 0 0.5 -h 25 -w 250 -l $selectoo -c $seleagain;\n}else if ($size == 1){\n    string $selectoo = ($x +\".> \" + $selecto[0]+\"____1\");\n    button -bgc 0 0 0.2 -h 25 -w 250 -l $selectoo -c $seleagain;\n}\n}\n\nshowWindow checkwork;\n//int $top, $left, $value[2];\n//$value = `scrollLayout -query -scrollAreaValue $scrollLayout`;\n//$top = $value[0];\n//$left = $value[1];\n//}checkwork;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem16;
+
+        mennuu
+            -label "bei+zhu>PO" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "beizhu(3)" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem20;
+
+        mennuu
+            -label "XY..>newXY..+con    +bake>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "addlot;outlinecolor(100);\nprint \"addlot\\n\";\n" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem9;
+
+        mennuu
+            -label "menuEditorMenuItem26" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "addlotbake;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem4;
+
+        mennuu
+            -label "X+YZ>X(x)+Y    +(x)poYZ>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "originnone;\nprint \"originnone\\n\";" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem11;
+
+        mennuu
+            -label "menuEditorMenuItem12" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "duochongaddcon2;\nprint \"duochongaddcon2\\n\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem7;
+
+        mennuu
+            -label "X+YZ>X(xxx)+YZ..AIcon" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "duochongaddcon3;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem14;
+
+        mennuu
+            -label "X+YZ..>newX(yz..)poYZ..  +bake" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "duochongaddcon1;\nprint \"duochongaddcon1\\n\";" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem13;
+
+        mennuu
+            -label "menuEditorMenuItem25" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "addbake;\nprint \"addbake\\n\";" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+        mennuu
+            -label "セパレータ" 
+            -divider 1
+            -dividerLabel "セパレータ" 
+            -subMenu 0
+            -tearOff 0
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem27;
+
+        mennuu
+            -label "QuickConsTool Window" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "SP_QuickCons" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem21;
+
+        mennuu
+            -label "selA>lotB>con+bake" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "string $sel[]=`ls-sl`;\nGetFormLocator2;outlinecolor(110);\nstring $new[]=`ls-sl`;\nparentConstraint -weight 1 $sel[0] $new[0];\nselect $new[0];sonbakeTO;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem10;
+
+    setParent -m ..;
+
+    mennuu
+        -label "Rigwork" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "NE" 
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem10;
+
+        mennuu
+            -label "oneA>duoB>scaleConnect" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc ABscaleConnect(){\t\nglobal string $A[];\nglobal string $B[];\nselect $B;\nstring $selcB[] = `ls-sl`; \nint $Josize =`size($selcB)`;\nint $x;\nfor ($x = 0;$x < $Josize; $x++){\nconnectAttr ($A[0] + \".scaleX\") ($selcB[$x] + \".scaleX\");\nconnectAttr ($A[0] + \".scaleY\") ($selcB[$x] + \".scaleY\");\nconnectAttr ($A[0] + \".scaleZ\") ($selcB[$x] + \".scaleZ\");\n}ABscaleConnect;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "SW" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem5;
+
+        mennuu
+            -label "plusMinusAverage+1D" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "NodeEditorWindow;\n$node_pma = `createNode plusMinusAverage`;\n//https://forums.cgsociety.org/t/plus-minus-average-from-maya/1266236/13\n// example 1D\nsetAttr ($node_pma + \".input1D[0]\") 1;\nsetAttr ($node_pma + \".input1D[1]\") 2;\nsetAttr ($node_pma + \".input1D[2]\") 3;\nsetAttr ($node_pma + \".input1D[3]\") 4;\n\ngetAttr ($node_pma + \".output1D\");\n\n// example 2D\nsetAttr ($node_pma + \".input2D[0].input2Dx\") 1;\nsetAttr ($node_pma + \".input2D[1].input2Dx\") 2;\nsetAttr ($node_pma + \".input2D[2].input2Dx\") 3;\n\nsetAttr ($node_pma + \".input2D[0].input2Dy\") 2;\nsetAttr ($node_pma + \".input2D[1].input2Dy\") 4;\nsetAttr ($node_pma + \".input2D[2].input2Dy\") 6;\n\n// you can also set both values in one command\nsetAttr -type \"double2\" ($node_pma + \".input2D[3]\") 4 8;\n\ngetAttr ($node_pma + \".output2D\");\n\n// example 3D\nsetAttr -type \"double3\" ($node_pma + \".input3D[0]\") 1 2 4;\nsetAttr -type \"double3\" ($node_pma + \".input3D[1]\") 2 4 8;\nsetAttr -type \"double3\" ($node_pma + \".input3D[2]\") 3 6 12;\n\nsetAttr ($node_pma + \".input3D[3].input3Dx\") 4 ;\nsetAttr ($node_pma + \".input3D[3].input3Dy\") 8 ;\nsetAttr ($node_pma + \".input3D[3].input3Dz\") 16 ;\n\ngetAttr ($node_pma + \".output3D\");\nNodeEditorGraphUpDownstream;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -radialPosition "S" 
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem1;
+
+        mennuu
+            -label "nosel_kaiguan_plusMinusAverage" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc kaiguan(){\nNodeEditorWindow;\nstring $switch1=`createNode -n (\"switch1_plusMinusAverage\") condition`;\nstring $switch2=`createNode -n (\"switch2_plusMinusAverage\") reverse`;\nconnectAttr -f switch1_plusMinusAverage.outColorR switch2_plusMinusAverage.inputX;\nNodeEditorGraphUpDownstream;\n}kaiguan;\n" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem6;
+
+        mennuu
+            -label "1+2+3con_plusMinusAverage" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc A_B_Ccon_go(){\nNodeEditorWindow;\nstring $j[]=`ls-sl`;\nstring $node_pma=`shadingNode -asUtility plusMinusAverage`;\nsetAttr ($node_pma + \".operation\") 2;\nsetAttr ($node_pma+\".input1D[0]\")1;//add D\nconnectAttr ($j[2] + \".\" + $j[0] +\"W0\") ($node_pma + \".input1D[1]\");\nconnectAttr ($node_pma + \".output1D\") ($j[2] + \".\" + $j[1] +\"W1\");\nselect -r $j[2];\nNodeEditorGraphUpDownstream;\n}A_B_Ccon_go;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem9;
+
+        mennuu
+            -label "a+b_lianjie_multiplyDivide" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc lianjie_multiplyDivide(){\nNodeEditorWindow;\nstring $nima[] = `ls-sl`; \nstring $channl[] = `channelBox -q -sma mainChannelBox`;\nif(`size ($channl)`==1){\n$node_pma = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\n}else if(`size ($channl)`==2){\n$node_pma = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\nconnectAttr ($nima[0] + \".\" + $channl[1]) ($node_pma + \".input1Y\");\nconnectAttr ($node_pma + \".outputY\") ($nima[1] + \".\" + $channl[1]) ;\n}else if(`size ($channl)`==3){\n$node_pma = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\nconnectAttr ($nima[0] + \".\" + $channl[1]) ($node_pma + \".input1Y\");\nconnectAttr ($node_pma + \".outputY\") ($nima[1] + \".\" + $channl[1]) ;\nconnectAttr ($nima[0] + \".\" + $channl[2]) ($node_pma + \".input1Z\");\nconnectAttr ($node_pma + \".outputZ\") ($nima[1] + \".\" + $channl[2]) ;\n}else if(`size ($channl)`==4){\n$node_pma = `createNode multiplyDivide`;\n$node_pmaB = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\nconnectAttr ($nima[0] + \".\" + $channl[1]) ($node_pma + \".input1Y\");\nconnectAttr ($node_pma + \".outputY\") ($nima[1] + \".\" + $channl[1]) ;\nconnectAttr ($nima[0] + \".\" + $channl[2]) ($node_pma + \".input1Z\");\nconnectAttr ($node_pma + \".outputZ\") ($nima[1] + \".\" + $channl[2]) ;\n\nconnectAttr ($nima[0] + \".\" + $channl[3]) ($node_pmaB + \".input1X\");\nconnectAttr ($node_pmaB + \".outputX\") ($nima[1] + \".\" + $channl[3]) ;\n}else if(`size ($channl)`==5){\n$node_pma = `createNode multiplyDivide`;\n$node_pmaB = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\nconnectAttr ($nima[0] + \".\" + $channl[1]) ($node_pma + \".input1Y\");\nconnectAttr ($node_pma + \".outputY\") ($nima[1] + \".\" + $channl[1]) ;\nconnectAttr ($nima[0] + \".\" + $channl[2]) ($node_pma + \".input1Z\");\nconnectAttr ($node_pma + \".outputZ\") ($nima[1] + \".\" + $channl[2]) ;\n\nconnectAttr ($nima[0] + \".\" + $channl[3]) ($node_pmaB + \".input1X\");\nconnectAttr ($node_pmaB + \".outputX\") ($nima[1] + \".\" + $channl[3]) ;\nconnectAttr ($nima[0] + \".\" + $channl[4]) ($node_pmaB + \".input1Y\");\nconnectAttr ($node_pmaB + \".outputY\") ($nima[1] + \".\" + $channl[4]) ;\n}else if(`size ($channl)`==6){\n$node_pma = `createNode multiplyDivide`;\n$node_pmaB = `createNode multiplyDivide`;\nconnectAttr ($nima[0] + \".\" + $channl[0]) ($node_pma + \".input1X\");\nconnectAttr ($node_pma + \".outputX\") ($nima[1] + \".\" + $channl[0]) ;\nconnectAttr ($nima[0] + \".\" + $channl[1]) ($node_pma + \".input1Y\");\nconnectAttr ($node_pma + \".outputY\") ($nima[1] + \".\" + $channl[1]) ;\nconnectAttr ($nima[0] + \".\" + $channl[2]) ($node_pma + \".input1Z\");\nconnectAttr ($node_pma + \".outputZ\") ($nima[1] + \".\" + $channl[2]) ;\n\nconnectAttr ($nima[0] + \".\" + $channl[3]) ($node_pmaB + \".input1X\");\nconnectAttr ($node_pmaB + \".outputX\") ($nima[1] + \".\" + $channl[3]) ;\nconnectAttr ($nima[0] + \".\" + $channl[4]) ($node_pmaB + \".input1Y\");\nconnectAttr ($node_pmaB + \".outputY\") ($nima[1] + \".\" + $channl[4]) ;\nconnectAttr ($nima[0] + \".\" + $channl[5]) ($node_pmaB + \".input1Z\");\nconnectAttr ($node_pmaB + \".outputZ\") ($nima[1] + \".\" + $channl[5]) ;\n}\nNodeEditorGraphUpDownstream;\n}lianjie_multiplyDivide;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem10;
+
+        mennuu
+            -label "a+b_lianjie_decomposeMatrix" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc lianjie_decomposeMatrix(){\nNodeEditorWindow;\nstring $jo[]=`ls-sl`;\nstring $hangliefenjie=`shadingNode -asUtility \"decomposeMatrix\"`;\nconnectAttr -f ($jo[0]+\".worldMatrix[0]\") ($hangliefenjie+\".inputMatrix\");\nconnectAttr -f ($hangliefenjie+\".outputTranslate\") ($jo[1]+\".translate\");\nselect $jo;\nNodeEditorGraphUpDownstream;\n}lianjie_decomposeMatrix" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem7;
+
+    setParent -m ..;
+
+    mennuu
+        -label "MotionWork2" 
+        -divider 0
+        -subMenu 1
+        -tearOff 0
+        -optionBox 0
+        -enable 1
+        -visible 1
+        -data 0
+        -allowOptionBoxes 1
+        -enableCommandRepeat 1
+        -italicized 0
+        -boldFont 1
+        -sourceType "mel" 
+        -longDivider 1
+        menuEditorMenuItem6;
+
+        mennuu
+            -label "|>            <|>" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "proBgo;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem3;
+
+        mennuu
+            -label "menuEditorMenuItem2" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "proBgo;proCgo;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem1;
+
+        mennuu
+            -label "*" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc proA(){\nselect \"*bayunpaiX*\";pickWalk -d up;\nSetKeyTranslate;SetKeyRotate;\nglobal string $selobj[];\nglobal int $sttime;\nglobal int $edtime;\nglobal int $notime;son;\nsetKeyframe -insert -t $sttime $selobj;\nsetKeyframe -insert -t $edtime $selobj;\n}proA;\n////////////////////\nglobal proc proBgo(){\nstring $Lo[]=`ls-sl`;\nint $Losize=`size($Lo)`;\nint $x; \nkakusiONs;\nfor ($x=0;$x<$Losize;$x++){\nselect $Lo[$x];\nstring $ako[] = `ls-sl`;\nint $lockT = `getAttr -lock $ako.translateX`;\nint $lockO = `getAttr -lock $ako.rotateX`;\nGetFormLocator2;\nstring $Tag[] = `ls-sl`;\nselect -tgl $ako;\nNextFrame;\nif ($lockT == 0){\npointConstraint -n \"_conduiqipose\" -offset 0 0 0 -weight 1 ;\n}\nif ($lockO == 0){\norientConstraint -n \"_conduiqipose\" -offset 0 0 0 -weight 1 ; \n}\nSetKeyTranslate; SetKeyRotate;\ndelete \"_conduiqipose*\" $Tag;\nPreviousFrame;\n}\nselect $Lo;\nkakusiOFFs;\n}//proBgo\n////////////////////\nglobal proc proCgo(){\nstring $Lo[]=`ls-sl`;\nint $Losize=`size($Lo)`;\nint $x;\nkakusiONs;\nfor ($x=0;$x<$Losize;$x++){\nselect $Lo[$x];\nstring $ako[] = `ls-sl`;\nint $lockT = `getAttr -lock $ako.translateX`;\nint $lockO = `getAttr -lock $ako.rotateX`;\nGetFormLocator2;\nstring $Tag[] = `ls-sl`;\nselect -tgl $ako;\nPreviousFrame;\nif ($lockT == 0){\npointConstraint -n \"_conduiqipose\" -offset 0 0 0 -weight 1 ;\n}\nif ($lockO == 0){\norientConstraint -n \"_conduiqipose\" -offset 0 0 0 -weight 1 ; \n}\nSetKeyTranslate; SetKeyRotate;\ndelete \"_conduiqipose*\" $Tag;\nNextFrame;\n}\nselect $Lo;\nkakusiOFFs;\n}//proCgo\n////////////////////\nglobal proc minmaxgo(){\n$currentTime = `currentTime -q`;\ncurrentTime (`playbackOptions -q -minTime`);\nproBgo;\ncurrentTime (`playbackOptions -q -maxTime`);\nproCgo;\ncurrentTime $currentTime;\n}//minmaxgo;\n////////////////////" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem5;
+
+        mennuu
+            -label "<|          |>|||<|" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "proCgo;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem6;
+
+        mennuu
+            -label "menuEditorMenuItem11" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "minmaxgo;" 
+            -optionBox 1
+            -enable 1
+            -visible 0
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 0
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem2;
+
+        mennuu
+            -label "|>--<||>--<|" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "proBgo;proCgo;minmaxgo;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem18;
+
+        mennuu
+            -label "セパレータ" 
+            -divider 1
+            -dividerLabel "セパレータ" 
+            -subMenu 0
+            -tearOff 0
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem13;
+
+        mennuu
+            -label "retime_work" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "global proc retimehelpW(){\nif(`window -ex retimehelpW` == true )deleteUI retimehelpW;\nwindow -t \"retimehelpW\" -w 50 -h 100 retimehelpW;\ncolumnLayout;\nrowLayout -nc 9;\nbutton -w 70 -l \"30/+1\" -c \"retimehelperwork(1,30)\";\nbutton -w 70 -l \"30/+3\" -c \"retimehelperwork(2,30)\";\nbutton -w 70 -l \"30/+selkey\" -c \"retimehelperwork(3,30)\";\nsetParent ..;\nrowLayout -nc 9;\nbutton -w 70 -l \"60/+1\" -c \"retimehelperwork(1,60)\";\nbutton -w 70 -l \"60/+3\" -c \"retimehelperwork(2,60)\";\nbutton -w 70 -l \"60/+selkey\" -c \"retimehelperwork(3,60)\";\nsetParent ..;\nshowWindow retimehelpW;\n}retimehelpW;\n//////////////////////////////////////////////////////\nglobal proc retimehelperwork(int $geshu,int $fps){//1=+1 2=+mmm 3=+dingtime\n//float $second=(`currentTime -q`/60);\nint $fpss=$fps;\nglobal int $sttime;\nglobal int $edtime;\nglobal int $notime;\nglobal float $selkeyall[];son;\nRetimeKeysTool;\nif($geshu==1){\nretimeHelper -frame (`currentTime -q`/$fpss);\n}else if($geshu==2){\ncurrentTime $sttime;\nretimeHelper -frame (`currentTime -q`/$fpss);\ncurrentTime $edtime;\nretimeHelper -frame (`currentTime -q`/$fpss);\ncurrentTime $notime;\nretimeHelper -frame (`currentTime -q`/$fpss);\n}else if($geshu==3){\nkakusiONs;\nglobal float $guolvhou[];\nclear $guolvhou;\nCurveOperation guolvtime;\nglobal float $guolvhou[];\nfor($as in $guolvhou){\ncurrentTime $as;\nretimeHelper -frame (`currentTime -q`/$fpss);\n}kakusiOFFs;\ncurrentTime $notime;\n}\n}" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem4;
+
+        mennuu
+            -label "beicon set key noAdd_all timesilder" 
+            -divider 0
+            -subMenu 0
+            -tearOff 0
+            -command "print \"被con後,setKey用。keyない通道無視\";\nglobal proc setkeyandnoadd(){//1f or all\nglobal int $notime;son;kakusiONs;\nCurveOperation2 seleminmax;\nglobal float $jiluselkeys[];\ndingtimeB;\nfor($bb in $jiluselkeys){\ncurrentTime $bb;\nsetkeynoadd1f;\n}print (`size($jiluselkeys)`+\"個時間点 setkey noadd\");\ncurrentTime $notime;\nkakusiOFFs;}\n\nglobal proc setkeynoadd1f(){\nselectKey -clear;\nselectKey -t (`currentTime -q`);\nstring $selkeys[]=`keyframe -q -name`;\n$nowt=`currentTime -q`;\nint $keysA=`keyframe -an keys -q -kc`;\nif($keysA!=0){\nSetKeyAnimated;\nselectKey -clear;\nselectKey -t (`currentTime -q`);\nint $keysB=`keyframe -an keys -q -kc`;\nif ($keysA==$keysB) {\nselectKey -clear ;\n}else{\nfor($a in $selkeys){\nselectKey -rm -k -t $nowt $a;\n}cutKey -clear;\n}print ($keysA+\">\"+$keysB+\">\"+$keysA);\n}else{print \"noadd\";}\n}\n\n//gogogo\nstring $selll[]=`ls-sl`;\nfor($aa in `ls-sl`){\nselect $aa;\nsetkeyandnoadd;\n}select $selll;" 
+            -optionBox 0
+            -enable 1
+            -visible 1
+            -data 0
+            -allowOptionBoxes 1
+            -postMenuCommandOnce 0
+            -enableCommandRepeat 1
+            -echoCommand 0
+            -italicized 0
+            -boldFont 1
+            -sourceType "mel" 
+            -longDivider 1
+            menuEditorMenuItem8;
+
+    setParent -m ..;
+
+setParent -m ..;
+
