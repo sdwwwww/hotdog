@@ -1,4 +1,3 @@
-CRLF_SJIS
 
     mennuu
         -label "local+global" 
@@ -15,7 +14,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem1;
 
         mennuu
@@ -36,7 +35,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem1;
 
         mennuu
@@ -56,7 +55,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem20;
 
         mennuu
@@ -77,7 +76,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem2;
 
         mennuu
@@ -97,7 +96,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem18;
 
         mennuu
@@ -118,7 +117,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem3;
 
         mennuu
@@ -138,7 +137,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem19;
 
         mennuu
@@ -159,7 +158,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem5;
 
         mennuu
@@ -179,7 +178,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem23;
 
         mennuu
@@ -200,7 +199,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem6;
 
         mennuu
@@ -220,7 +219,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem24;
 
         mennuu
@@ -241,7 +240,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem7;
 
         mennuu
@@ -261,7 +260,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem25;
 
         mennuu
@@ -282,7 +281,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
         mennuu
@@ -302,7 +301,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem21;
 
         mennuu
@@ -323,7 +322,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem9;
 
         mennuu
@@ -343,7 +342,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem22;
 
         mennuu
@@ -363,7 +362,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem4;
 
         mennuu
@@ -382,7 +381,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem13;
 
     setParent -m ..;
@@ -402,7 +401,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem2;
 
         mennuu
@@ -423,7 +422,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem1;
 
         mennuu
@@ -443,7 +442,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem19;
 
         mennuu
@@ -464,7 +463,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem3;
 
         mennuu
@@ -484,7 +483,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem25;
 
         mennuu
@@ -505,7 +504,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem4;
 
         mennuu
@@ -525,7 +524,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem24;
 
         mennuu
@@ -546,7 +545,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem5;
 
         mennuu
@@ -566,7 +565,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem6;
 
         mennuu
@@ -587,7 +586,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem7;
 
         mennuu
@@ -607,7 +606,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
         mennuu
@@ -628,7 +627,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem2;
 
         mennuu
@@ -648,7 +647,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem20;
 
         mennuu
@@ -669,7 +668,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem32;
 
         mennuu
@@ -689,7 +688,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem34;
 
         mennuu
@@ -709,7 +708,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem10;
 
         mennuu
@@ -729,7 +728,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem21;
 
         mennuu
@@ -749,7 +748,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem11;
 
         mennuu
@@ -769,7 +768,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem22;
 
         mennuu
@@ -789,7 +788,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem39;
 
         mennuu
@@ -809,7 +808,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem23;
 
         mennuu
@@ -829,7 +828,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem12;
 
         mennuu
@@ -849,7 +848,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem26;
 
         mennuu
@@ -869,7 +868,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem36;
 
         mennuu
@@ -889,7 +888,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem27;
 
         mennuu
@@ -909,7 +908,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem13;
 
         mennuu
@@ -929,7 +928,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem28;
 
     setParent -m ..;
@@ -949,7 +948,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem3;
 
         mennuu
@@ -970,7 +969,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
         mennuu
@@ -991,7 +990,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem15;
 
         mennuu
@@ -1011,7 +1010,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem16;
 
     setParent -m ..;
@@ -1031,7 +1030,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem4;
 
         mennuu
@@ -1052,7 +1051,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem2;
 
         mennuu
@@ -1073,7 +1072,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem3;
 
         mennuu
@@ -1093,7 +1092,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem9;
 
         mennuu
@@ -1114,7 +1113,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
     setParent -m ..;
@@ -1134,7 +1133,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem13;
 
         mennuu
@@ -1155,7 +1154,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem1;
 
         mennuu
@@ -1176,7 +1175,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem2;
 
         mennuu
@@ -1197,7 +1196,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem3;
 
         mennuu
@@ -1217,7 +1216,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem12;
 
         mennuu
@@ -1238,7 +1237,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem5;
 
         mennuu
@@ -1259,7 +1258,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem6;
 
         mennuu
@@ -1280,7 +1279,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem15;
 
         mennuu
@@ -1300,7 +1299,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem16;
 
         mennuu
@@ -1321,7 +1320,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem20;
 
         mennuu
@@ -1341,7 +1340,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem9;
 
         mennuu
@@ -1361,7 +1360,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem4;
 
         mennuu
@@ -1381,7 +1380,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem11;
 
         mennuu
@@ -1401,7 +1400,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem7;
 
         mennuu
@@ -1421,7 +1420,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem14;
 
         mennuu
@@ -1441,7 +1440,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem13;
 
         mennuu
@@ -1461,7 +1460,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
         mennuu
@@ -1480,7 +1479,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem27;
 
         mennuu
@@ -1500,7 +1499,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem21;
 
         mennuu
@@ -1520,7 +1519,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem10;
 
     setParent -m ..;
@@ -1540,7 +1539,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem10;
 
         mennuu
@@ -1561,7 +1560,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem5;
 
         mennuu
@@ -1582,7 +1581,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem1;
 
         mennuu
@@ -1602,7 +1601,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem6;
 
         mennuu
@@ -1622,7 +1621,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem9;
 
         mennuu
@@ -1642,7 +1641,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem10;
 
         mennuu
@@ -1662,7 +1661,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem7;
 
     setParent -m ..;
@@ -1681,7 +1680,7 @@ CRLF_SJIS
         -italicized 0
         -boldFont 1
         -sourceType "mel" 
-        -longDivider 1
+        -longDividers 1
         menuEditorMenuItem6;
 
         mennuu
@@ -1701,7 +1700,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem3;
 
         mennuu
@@ -1721,7 +1720,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem1;
 
         mennuu
@@ -1741,7 +1740,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem5;
 
         mennuu
@@ -1761,7 +1760,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem6;
 
         mennuu
@@ -1781,7 +1780,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem2;
 
         mennuu
@@ -1801,7 +1800,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem18;
 
         mennuu
@@ -1820,7 +1819,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem13;
 
         mennuu
@@ -1840,7 +1839,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem4;
 
         mennuu
@@ -1860,7 +1859,7 @@ CRLF_SJIS
             -italicized 0
             -boldFont 1
             -sourceType "mel" 
-            -longDivider 1
+            -longDividers 1
             menuEditorMenuItem8;
 
     setParent -m ..;
